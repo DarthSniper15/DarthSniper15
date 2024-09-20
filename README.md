@@ -3,7 +3,7 @@
 - I have my portfolio that you can acess using "https://caneta.dev.br"
 - I'm developing a DB of Arknights in PT-BR, inspired by Aceship DB.
 - I will code a DB of Blue Archive, maybe one for others games... maybe...
-- You can find me on Twitter, Pinterest, Ko-Fi(if for some reason you want to give me a incentive) and Discord using @DarthSniper15, you can also find me using Στυλό, Caneta or Pen.
+- You can find me on Twitter(unused), Pinterest, Reddit, Ko-Fi(if for some reason you want to give me a incentive) and Discord using @DarthSniper15, you can also find me using Στυλό, Caneta or Pen.
 - By the way, I'm from Brazil, so my mother language isn't english, any inconsistence, it's because of it.
 - Take care and stay safe everyone.
 
