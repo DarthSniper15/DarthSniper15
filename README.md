@@ -1,11 +1,46 @@
-- 👋 Sup fellow websurfers, I'm @Darthsniper15 aka Pen/Στυλό, a begginer coder and keratoconus carrier that for now only code for hobby due to work.
-- I dream that I can live only coding.
+# 🖊️ Caneta
+
+- 👋 Howdy, I'm @Darthsniper15 aka Pen/Στυλό, a Brazilian coder and keratoconus carrier that have some projects on the queue
+- I dream that I can work with coding.
 - I have my portfolio that you can acess using "https://caneta.dev.br"
-- I'm developing a DB of Arknights in PT-BR, inspired by Aceship DB.
-- I will code a DB of Blue Archive, maybe one for others games... maybe...
-- You can find me on Twitter(unused), Pinterest, Reddit, Ko-Fi(if for some reason you want to give me a incentive) and Discord using @DarthSniper15, you can also find me using Στυλό, Caneta or Pen.
-- By the way, I'm from Brazil, so my mother language isn't english, any inconsistence, it's because of it.
+- I'm was developing a DB, inspired by Aceship DB, of Arknights and a DB of Blue Archive in PT-BR, but both projects are archived for now
 - Take care and stay safe everyone.
+
+## 📖 Knowledge
+
+- HTML
+- CSS 
+- JS
+- PHP
+- C/C++
+- Python
+- Java
+- PostgreeSQL
+- MySQL
+- SQL-Server
+- Microsoft Access
+- Node.JS
+- Puppeteer
+- JSON
+
+## 🧠 Studying
+
+- AI
+- CyberSecurity
+
+## Socials
+
+[![Bluesky](https://raw.githubusercontent.com/darthsniper15/darthsniper15/main/icons/bsky.svg)](https://www.bsky.app/profile/caneta.dev.br)
+
+[![Pinterest](https://raw.githubusercontent.com/darthsniper15/darthsniper15/main/icons/pinterest.svg)](https://br.pinterest.com/DarthSniper15)
+
+[![Reddit](https://raw.githubusercontent.com/darthsniper15/darthsniper15/main/icons/reddit.svg)](https://www.reddit.com/u/DarthSniper15)
+
+[![Ko-Fi](https://raw.githubusercontent.com/darthsniper15/darthsniper15/main/icons/kofi.png)](https://ko-fi.com/darthsniper15)
+
+[![Discord](https://raw.githubusercontent.com/darthsniper15/darthsniper15/main/icons/discord.svg)](https://discord.com/users/300964894713577482/)
+
+
 
 <!---
 DarthSniper15/DarthSniper15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
