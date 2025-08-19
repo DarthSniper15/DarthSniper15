@@ -67,7 +67,7 @@ I have experience developing database projects, including one inspired by [Acesh
 <a href="https://icons8.com"><img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/referencias/icons8.svg" style="height: 50px; width: 50px;"></a>
 
 
-### Notas de Rodapé
+### Footnotes
 
 <sup id="note1">1</sup> Keratoconus (ker-uh-toe-KOH-nus) is an eye condition in which the clear, dome-shaped front of the eye, called the cornea, gets thinner, steeper and bulges outward into a cone shape.
 A cone-shaped cornea causes blurred vision and may cause sensitivity to light and glare. [Know more]([https://www.tuasaude.com/ceratocone](https://www.mayoclinic.org/diseases-conditions/keratoconus/symptoms-causes/syc-20351352))
