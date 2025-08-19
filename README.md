@@ -6,16 +6,35 @@ I have experience developing database projects, including one inspired by [Acesh
 
 ## 📖 Knowledge
 
-- **Languages:** HTML, CSS, JS, PHP, C/C++, Python, Java
-- **Databases:** MySQL, SQL Server, PostgreeSQL, Microsoft Access
-- **Technologies:** NodeJS, Puppeteer, JSON
+- **Languages:**
+  
+<img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/technologies/html.svg" style="height: 40px; width: 40px"> <img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/technologies/css.svg" style="height: 40px; width: 40px"> <img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/technologies/javascript.svg" style="height: 40px; width: 40px"> <img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/technologies/php.svg" style="height: 40px; width: 40px"> <img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/technologies/c.svg" style="height: 40px; width: 40px"> <img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/technologies/cpluplus.svg" style="height: 40px; width: 40px"> <img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/technologies/python.svg" style="height: 40px; width: 40px"> <img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/technologies/java.svg" style="height: 40px; width: 40px">
+
+- **Databases:**
+
+<img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/technologies/mysql.svg" style="height: 40px; width: 40px"> <img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/technologies/sqlserver.svg" style="height: 40px; width: 40px"> <img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/technologies/postgreSQL.svg" style="height: 40px; width: 40px"> <img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/technologies/access.svg" style="height: 40px; width: 40px">
+
+- **Technologies:**
+
+ <img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/technologies/nodejs.svg" style="height: 40px; width: 40px"> <img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/technologies/puppeteer.svg" style="height: 40px; width: 40px;"> <img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/technologies/json.svg" style="height: 40px; width: 40px;">
 
 ## 🛠️ Tools Used
 
-- **IDEs:** VSCode, Android Studio, SublimeText
+- **IDEs:**
+
+<img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/technologies/vscode.svg" style="height: 40px; width: 40px;"> <img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/technologies/androidstudio.svg" style="height: 40px; width: 40px;"> <img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/technologies/sublime.svg" style="height: 40px; width: 40px;">
+
 - **Versioning:** Git, GitHub
-- **Hosting:** Netlify, Vercel
-- **Monitoring:** Grafana
+
+<img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/technologies/git.svg" style="height: 40px; width: 40px;"> <img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/technologies/github.svg" style="height: 40px; width: 40px;">
+
+- **Hosting:**
+
+<img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/technologies/Netlify.svg" style="height: 40px; width: auto;"> <img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/technologies/vercel.svg" style="height: 40px; width: auto;">
+
+- **Monitoring:**
+
+<img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/technologies/grafana.svg" style="height: 40px; width: 40px;" href="https://grafana.com/">
 
 ## 🧠 Studying
 
@@ -26,17 +45,25 @@ I have experience developing database projects, including one inspired by [Acesh
 ## 📊 GitHub Status
 [![DarthSniper15 Status](https://my-readme-status.vercel.app/api?username=darthsniper15&show_icons=true&theme=github_dark_dimmed&border_radius=5&custom_title=Darthsniper15%20GitHub%20Stats&textbold=true&rank_icon=github&hide=stars,prs&include_all_commits)](https://github.com/DarthSniper15)
 
-[Support the creator](https://github.com/anuraghazra)
-
 ## 🌐 Socials
 
 [![Bluesky](https://raw.githubusercontent.com/darthsniper15/darthsniper15/main/icons/bsky.svg)](https://www.bsky.app/profile/caneta.dev.br) [![Pinterest](https://raw.githubusercontent.com/darthsniper15/darthsniper15/main/icons/pinterest.svg)](https://br.pinterest.com/DarthSniper15) [![Reddit](https://raw.githubusercontent.com/darthsniper15/darthsniper15/main/icons/reddit.svg)](https://www.reddit.com/u/DarthSniper15) [![Discord](https://raw.githubusercontent.com/darthsniper15/darthsniper15/main/icons/discord.svg)](https://discord.com/users/300964894713577482/)
 
 ## 🪙 Support Me!
 
-[![Ko-Fi](https://raw.githubusercontent.com/darthsniper15/darthsniper15/main/icons/kofi-button.png)](https://ko-fi.com/darthsniper15)
+<a href="https://ko-fi.com/darthsniper15"><img src="https://raw.githubusercontent.com/darthsniper15/darthsniper15/main/icons/kofi-button.png" style="height: 70px; width: auto"></a>
 
+## 📂 References
 
+- **GitHub Status:**
+[@anuraghazra](https://github.com/anuraghazra)
+
+- **Icons:**
+
+<a href="fonts.google.com"><img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/referencias/googlefonts.png" style="height: 40px; width: auto;"></a>
+<a href="https://www.svgrepo.com/"><img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/referencias/repo.png" style="height: 40px; width: auto;"></a>
+<a href="https://icon-icons.com"><img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/referencias/ficons.svg" style="height: 40px; width: 40px;"></a>
+<a href="https://icons8.com"><img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/referencias/icons8.svg" style="height: 50px; width: 50px;"></a>
 
 <!---
 DarthSniper15/DarthSniper15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
