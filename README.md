@@ -24,7 +24,7 @@ I have experience developing database projects, including one inspired by [Acesh
 
 <img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/technologies/vscode.svg" style="height: 40px; width: 40px;"> <img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/technologies/androidstudio.svg" style="height: 40px; width: 40px;"> <img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/technologies/sublime.svg" style="height: 40px; width: 40px;">
 
-- **Versioning:** Git, GitHub
+- **Versioning:** 
 
 <img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/technologies/git.svg" style="height: 40px; width: 40px;"> <img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/technologies/github.svg" style="height: 40px; width: 40px;">
 
@@ -43,6 +43,7 @@ I have experience developing database projects, including one inspired by [Acesh
 - Kotlin / Mobile
 
 ## 📊 GitHub Status
+
 [![DarthSniper15 Status](https://my-readme-status.vercel.app/api?username=darthsniper15&show_icons=true&theme=github_dark_dimmed&border_radius=5&custom_title=Darthsniper15%20GitHub%20Stats&textbold=true&rank_icon=github&hide=stars,prs&include_all_commits)](https://github.com/DarthSniper15)
 
 ## 🌐 Socials
