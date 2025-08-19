@@ -1,6 +1,6 @@
 # 🖊️ Caneta | Pen/Στυλό
 
-👋 Howdy, I'm @Darthsniper15, a Brazilian coder and keratoconus carrier that have some projects on the queue, My dream is to work with coding.
+👋 Howdy, I'm @Darthsniper15, a Brazilian coder and keratoconus<sup>[1](#note1)</sup> carrier that have some projects on the queue, My dream is to work with coding.
 You can check out my portfolio at [caneta.dev.br](https://caneta.dev.br).
 I have experience developing database projects, including one inspired by [Aceship DB](https://aceship.github.io/) for Arknights and a Blue Archive database in PT-BR. Both are currently paused.
 
@@ -48,7 +48,7 @@ I have experience developing database projects, including one inspired by [Acesh
 
 ## 🌐 Socials
 
-[![Bluesky](https://raw.githubusercontent.com/darthsniper15/darthsniper15/main/icons/bsky.svg)](https://www.bsky.app/profile/caneta.dev.br) [![Pinterest](https://raw.githubusercontent.com/darthsniper15/darthsniper15/main/icons/pinterest.svg)](https://br.pinterest.com/DarthSniper15) [![Reddit](https://raw.githubusercontent.com/darthsniper15/darthsniper15/main/icons/reddit.svg)](https://www.reddit.com/u/DarthSniper15) [![Discord](https://raw.githubusercontent.com/darthsniper15/darthsniper15/main/icons/discord.svg)](https://discord.com/users/300964894713577482/)
+<a href="https://www.bsky.app/profile/caneta.dev.br" target="_blank"><img src="https://raw.githubusercontent.com/darthsniper15/darthsniper15/main/icons/bsky.svg" style="height: 40px; width: auto"></a> <a href="https://br.pinterest.com/DarthSniper15" target="_blank"><img src="https://raw.githubusercontent.com/darthsniper15/darthsniper15/main/icons/pinterest.svg" style="height: 40px; width: auto"></a> <a href="https://www.reddit.com/u/DarthSniper15" target="_blank"><img src="https://raw.githubusercontent.com/darthsniper15/darthsniper15/main/icons/reddit.svg" style="height: 40px; width: auto"></a> <a href="https://discord.com/users/300964894713577482" target="_blank"><img src="https://raw.githubusercontent.com/darthsniper15/darthsniper15/main/icons/discord.svg" style="height: 40px; width: auto"></a> <a href="https://www.linkedin.com/in/phrm/" target="_blank"><img src="https://raw.githubusercontent.com/darthsniper15/darthsniper15/main/icons/linkedin.svg" style="height: 40px; width: auto"></a>
 
 ## 🪙 Support Me!
 
@@ -65,6 +65,12 @@ I have experience developing database projects, including one inspired by [Acesh
 <a href="https://www.svgrepo.com/"><img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/referencias/repo.png" style="height: 40px; width: auto;"></a>
 <a href="https://icon-icons.com"><img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/referencias/ficons.svg" style="height: 40px; width: 40px;"></a>
 <a href="https://icons8.com"><img src="https://raw.githubusercontent.com/DarthSniper15/DarthSniper15/refs/heads/main/icons/referencias/icons8.svg" style="height: 50px; width: 50px;"></a>
+
+
+### Notas de Rodapé
+
+<sup id="note1">1</sup> Keratoconus (ker-uh-toe-KOH-nus) is an eye condition in which the clear, dome-shaped front of the eye, called the cornea, gets thinner, steeper and bulges outward into a cone shape.
+A cone-shaped cornea causes blurred vision and may cause sensitivity to light and glare. [Know more]([https://www.tuasaude.com/ceratocone](https://www.mayoclinic.org/diseases-conditions/keratoconus/symptoms-causes/syc-20351352))
 
 <!---
 DarthSniper15/DarthSniper15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
