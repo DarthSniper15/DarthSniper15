@@ -10,11 +10,23 @@ I have experience developing database projects, including one inspired by [Acesh
 - **Databases:** MySQL, SQL Server, PostgreeSQL, Microsoft Access
 - **Technologies:** NodeJS, Puppeteer, JSON
 
+## 🛠️ Tools Used
+
+- **IDEs:** VSCode, Android Studio, SublimeText
+- **Versioning:** Git, GitHub
+- **Hosting:** Netlify, Vercel
+- **Monitoring:** Grafana
+
 ## 🧠 Studying
 
 - AI
 - CyberSecurity
 - Kotlin / Mobile
+
+## 📊 GitHub Status
+[![DarthSniper15 Status](https://my-readme-status.vercel.app/api?username=darthsniper15&show_icons=true&theme=github_dark_dimmed&border_radius=5&custom_title=Darthsniper15%20GitHub%20Stats&textbold=true&rank_icon=github&hide=stars,prs&include_all_commits)](https://github.com/DarthSniper15)
+
+[Support the creator](https://github.com/anuraghazra)
 
 ## 🌐 Socials
 
